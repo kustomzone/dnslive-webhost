@@ -6,6 +6,8 @@ You can use [DNS Live Free DNS Hosting](https://github.com/realrasengan/dnslive-
 
 This should not be used for production quality websites/DNS but is great for personal use!
 
+*** If you have a handshake resolver setup, visit [http://ix/](http://ix/) which is hosted using dnslive-cli at the DNS level and hosted using dnslive-webhost at the web level. ***
+
 ### Install
 ```
 git clone https://github.com/realrasengan/dnslive-webhost
