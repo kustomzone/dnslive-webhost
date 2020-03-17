@@ -4,7 +4,7 @@ Simply provide a signature of the file you wish to upload signed by the address 
 
 You can use [DNS Live Free DNS Hosting](https://github.com/realrasengan/dnslive-cli) to host your tld zone.  You will need to set your IP to: 45.33.66.56 for your TLD (@ IN A 45.33.66.56).
 
-This should not be used for production quality websites/DNS but is great for personal use!
+This should not be used for production quality websites/DNS but is great for personal use!  For more info see [dns.live](https://dns.live).
 
 *** If you have a handshake resolver setup, visit [http://ix/](http://ix/) which is hosted using dnslive-cli at the DNS level and hosted using dnslive-webhost at the web level. ***
 
